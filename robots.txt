@@ -4,5 +4,5 @@ Disallow: /admin/
 Disallow: /drafts/
 Disallow: /temp/
 Disallow: /404.html
-Sitemap: https://riano.ca/sitemap.xml
+Sitemap: https://riano.ca/sitemap-index.xml
 Host: https://riano.ca
