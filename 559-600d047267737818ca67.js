@@ -1,0 +1,3 @@
+/*! For license information please see 559-600d047267737818ca67.js.LICENSE.txt */
+"use strict";(self.webpackChunktemplate=self.webpackChunktemplate||[]).push([[559],{1559:function(e,a,n){n.r(a),n.d(a,{getDb:function(){return u},getFirebaseApp:function(){return o}});var r=n(1990);(0,r.KO)("firebase","11.10.0","app");var t=n(2405);const p={apiKey:"AIzaSyAmjprGF7QDWIoWoBFp0ZwVO-QR78m2Y68",authDomain:"juan-pablo-riano.firebaseapp.com",projectId:"juan-pablo-riano",storageBucket:"juan-pablo-riano.firebasestorage.app",messagingSenderId:"483387089148",appId:"1:483387089148:web:cfb12348eb7cfe1957b779"};function o(){return(0,r.Dk)().length?(0,r.Sx)():(0,r.Wp)(p)}function u(){return(0,t.getFirestore)(o())}}}]);
+//# sourceMappingURL=559-600d047267737818ca67.js.map

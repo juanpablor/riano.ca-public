@@ -141,7 +141,7 @@ body {
 }
 
 .section-title {
-    background: url('../images/title-frame.png') no-repeat;
+    background: url('../images/title-frame.webp') no-repeat;
     background-position: bottom left;
     padding: 14px 0;
     margin: 30px 0;
@@ -213,7 +213,7 @@ body {
 }
 
 .services {
-    background-image: url('../images/services-bg.jpg');
+    background-image: url('../images/services-bg.avif');
     background-repeat: repeat-y;
     background-position: bottom center;
 }
@@ -289,7 +289,7 @@ body {
 
 .cea-tab-item {
     // background-color: transparent;
-    // background-image: url('../../images/item-separator.png');
+    // background-image: url('../../images/item-separator.webp');
     // background-repeat: no-repeat;
     // background-position: bottom center;
     &.active {
